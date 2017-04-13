@@ -1,0 +1,36 @@
+#article {
+	background-color: #dbd9d9;
+	padding-top: 20px;
+}
+
+#article_header {
+    width: 960px;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+#article_page {
+	width: 576px;
+	padding: 15px;
+	box-sizing: border-box;
+	float: left;
+}
+
+#sidebar {
+	width: 384px;
+	padding: 10px;
+	box-sizing: border-box;
+	float: right;
+	height: 600px;
+	border: 2px solid #FFA847;
+	font-size: 20px;
+}
+
+#sidebar ul li {
+	padding: 5px;
+}
+
+#sidebar ul li a {
+    text-decoration: none;
+    color: inherit;
+}
